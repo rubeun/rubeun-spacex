@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Rubeun's SpaceX App
+App utilising SpaceX's API
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
